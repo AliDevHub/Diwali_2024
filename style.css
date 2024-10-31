@@ -40,6 +40,7 @@ body{
     height: 100vh;
     background-color: #111;
     z-index: 100;
+    overflow: hidden;
 }
 .for-cracers .box{
     display: none;
